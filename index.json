@@ -3,10 +3,10 @@
   "updated": "2026-03-12",
   "sections": [
     {
-      "id": "technology",
-      "name": "Technology",
-      "file": "technology.json",
-      "url": "https://raw.githubusercontent.com/SiamOfficial/HomiesNewsJson/main/technology.json"
+      "id": "tamim",
+      "name": "Tamim",
+      "file": "tamim.json",
+      "url": "https://raw.githubusercontent.com/SiamOfficial/HomiesNewsJson/main/tamim.json"
     },
     {
       "id": "world",
