@@ -1,0 +1,46 @@
+{
+  "section": "technology",
+  "updated": "2026-03-12",
+  "articles": [
+    {
+      "id": "ai-chip-breakthrough",
+      "slug": "ai-chip-breakthrough",
+      "title": "New AI Chip Breakthrough Changes Computing",
+      "author": "Homies News Editorial",
+      "date": "2026-03-12",
+      "thumbnail": "https://example.com/images/ai-chip-thumb.jpg",
+      "coverImage": "https://example.com/images/ai-chip-cover.jpg",
+      "summary": "A revolutionary AI processor promises faster performance and lower power usage.",
+      "tags": ["AI", "Hardware", "Technology"],
+      "trending": true,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A new generation of AI processor has been unveiled by researchers."
+        },
+        {
+          "type": "heading",
+          "text": "Why This Matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "Experts believe this chip could accelerate machine learning development."
+        },
+        {
+          "type": "image",
+          "url": "https://example.com/images/ai-chip-inside.jpg",
+          "caption": "Inside the revolutionary AI processor."
+        },
+        {
+          "type": "quote",
+          "text": "This chip will redefine computing.",
+          "author": "Tech Analyst"
+        },
+        {
+          "type": "paragraph",
+          "text": "The processor is expected to power next generation devices."
+        }
+      ]
+    }
+  ]
+}
