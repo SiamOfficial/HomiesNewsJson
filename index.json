@@ -1,0 +1,36 @@
+{
+  "site": "Homies News",
+  "updated": "2026-03-12",
+  "sections": [
+    {
+      "id": "technology",
+      "name": "Technology",
+      "file": "technology.json",
+      "url": "https://raw.githubusercontent.com/SiamOfficial/HomiesNewsJson/main/technology.json"
+    },
+    {
+      "id": "world",
+      "name": "World",
+      "file": "world.json",
+      "url": "https://raw.githubusercontent.com/SiamOfficial/HomiesNewsJson/main/world.json"
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "file": "business.json",
+      "url": "https://raw.githubusercontent.com/SiamOfficial/HomiesNewsJson/main/business.json"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "file": "sports.json",
+      "url": "https://raw.githubusercontent.com/SiamOfficial/HomiesNewsJson/main/sports.json"
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "file": "science.json",
+      "url": "https://raw.githubusercontent.com/SiamOfficial/HomiesNewsJson/main/science.json"
+    }
+  ]
+}
